@@ -15,6 +15,7 @@ My research interests include AI-empowered wireless system design and mmWave/ter
 ## Working Paper
 1. **Boxun Liu**, Shijian Gao, Xuanyu Liu, Xiang Cheng, and Liuqing Yang, "WiFo: Wireless Foundation Model for Channel Prediction," submitted to **SCIENCE CHINA Information Sciences**. [[arXiv](https://arxiv.org/pdf/2412.08908)] <span style="color:green;">The first wireless foundation model to address time-frequency channel prediction tasks in a one-for-all manner.</span>
 2. **Boxun Liu**, Shijian Gao, Zonghui Yang, Xiang Cheng, and Liuqing Yang, "Beam Pattern Modulation Embedded Hybrid Transceiver Optimization for Integrated Sensing and Communication", submitted to **IEEE Transactions on Wireless Communications**. [[arXiv](https://arxiv.org/abs/2405.09778)]
+
 ## Journals
 1. **Boxun Liu**, Xuanyu Liu, Shijian Gao, Xiang Cheng, and Liuqing Yang, "LLM4CP: Adapting Large Language Models for Channel Prediction," **Journal of Communications and Information Networks**, vol. 9, no. 2, pp. 113-125, Jun. 2024. [[Code](https://github.com/liuboxun/LLM4CP)] [[Interpretation](https://mp.weixin.qq.com/s/HRigvdlC1jcfs-NFzSxMow)] <span style="color:green;">The first attempt to adapt pre-trained LLM for channel prediction.</span>
   * <span style="color:orange;">*Selected as the Most Popular Document of JCIN: August 2024-now*</span>
