@@ -11,3 +11,4 @@ Before that, I obtained my bachelor's degree in the [School of Information and C
 
 My research interests include AI-empowered wireless system design and mmWave/terahertz transceiver optimization. Specifically, I have recently focused on the wireless physical layer (PHY) design enabled by foundation models.
 
+## Publications
