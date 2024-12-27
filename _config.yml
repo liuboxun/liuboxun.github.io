@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Boxun Liu's Website"
 title_separator          : "-"
-name                     : &name "Boxun Liu (刘伯珣)"
+name                     : &name "Boxun Liu (<font face="黑体">微软雅黑</font>)"
 description              : &description "personal description"
 url                      : https://liuboxun.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
