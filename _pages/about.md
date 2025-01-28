@@ -19,7 +19,8 @@ My research interests include AI-empowered wireless system design and mmWave/ter
 
 ## Journals
 1. **Boxun Liu**, Xuanyu Liu, Shijian Gao, Xiang Cheng, and Liuqing Yang, "LLM4CP: Adapting Large Language Models for Channel Prediction," **Journal of Communications and Information Networks**, vol. 9, no. 2, pp. 113-125, Jun. 2024. [[Code](https://github.com/liuboxun/LLM4CP)] [[Interpretation](https://mp.weixin.qq.com/s/HRigvdlC1jcfs-NFzSxMow)] <span style="color:green;">The first attempt to adapt pre-trained LLM for channel prediction.</span>
-  * <span style="color:orange;">*Selected as the Most Popular Document of JCIN: August 2024-now*</span>
+  *  <span style="color:orange;">*入选2024年度信息通信领域科技论文激励计划*</span>
+  *  <span style="color:orange;">*Selected as the Most Popular Document of JCIN: August 2024-now*</span>
 2. Jianan Zhang, Zhiwei Wei, **Boxun Liu**, Xiayi Wang, Yong Yu and Rongqing Zhang, "Cloud-Edge-Terminal Collaborative AIGC for Autonomous Driving," **IEEE Wireless Communications**, vol. 31, no. 4, pp. 40-47, Aug. 2024.
 3. Xiang Cheng, Ziwei Huang, Lu Bai, Haotian Zhang, Mingran Sun, **Boxun Liu**, Sijiang Li, Jianan Zhang, and Minson Lee, "M3SC: A generic dataset for mixed multi-modal (MMM) sensing and communication integration," **China Communications**, vol. 20, no. 11, pp. 13-29, Nov. 2023.
 4. **Boxun Liu**, Yong Deng, and Kang Hao Cheong, "An improved multisource data fusion method based on a novel divergence measure of belief function", **Engineering Applications of Artificial Intelligence**, vol. 111, pp. 104834, May 2022.
