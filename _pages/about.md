@@ -13,7 +13,8 @@ My research interests include AI-empowered wireless system design and mmWave/ter
 
 # Publications
 ## Working Paper
-1. Xuanyu Liu, Shijian Gao, **Boxun Liu**, Xiang Cheng, Liuqing Yang, "LLM4WM: Adapting LLM for Wireless Multi-Tasking", submitted to **IEEE Transactions on Machine Learning in Communications and Networking**. [[arXiv](https://arxiv.org/abs/2501.12983)]
+1. Xuanyu Liu, Shijian Gao, **Boxun Liu**, Xiang Cheng, and Liuqing Yang, "LLM4WM: Adapting LLM for Wireless Multi-Tasking", submitted to **IEEE Transactions on Machine Learning in Communications and Networking**. [[arXiv](https://arxiv.org/abs/2501.12983)]
+2. Xiang Cheng, **Boxun Liu**, Xuanyu Liu, Ensong Liu, and Ziwei Huang, "Foundation Model Empowered Synesthesia of Machines (SoM): AI-native Intelligent Multi-Modal Sensing-Communication Integration", submitted to **IEEE Transactions on Network Science and Engineering**. [[arXiv](https://arxiv.org/abs/2506.07647)]
 
 
 
