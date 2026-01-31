@@ -1,4 +1,4 @@
----
+<img width="353" height="53" alt="image" src="https://github.com/user-attachments/assets/1a12a04d-f5e9-4630-9553-fb7865a09202" />---
 permalink: /
 title: "About Me"
 author_profile: true
@@ -14,7 +14,7 @@ My research interests include AI-empowered wireless system design. Specifically,
 
 # Publications
 ## Working Paper
-None
+
 1. Xiang Cheng, **Boxun Liu**, Xuanyu Liu, and Xuesong Cai, "Large Wireless Foundation Models: Stronger over Bigger", arXiv 2026. [[arXiv](https://arxiv.org/pdf/2601.10963)]
 2. **Bixun Liu**, Xuanyu Liu, Shijian Gao, Xiang Cheng, and Liuqing Yang, "Foundation Model for Intelligent Wireless Communications," arXiv 2026. [[arXiv](https://arxiv.org/abs/2511.22222)]
 
@@ -27,9 +27,11 @@ None
 2. Xuanyu Liu, Shijian Gao, **Boxun Liu**, Xiang Cheng, and Liuqing Yang, "LLM4WM: Adapting LLM for Wireless Multi-Tasking", **IEEE Transactions on Machine Learning in Communications and Networking**, vol. 3, pp. 835-847, Jul. 2025. [[Paper](https://ieeexplore.ieee.org/document/11071329)][[arXiv](https://arxiv.org/abs/2501.12983)][[Code](https://github.com/xuanyv/LLM4WM)]
 3. **Boxun Liu**, Shijian Gao, Xuanyu Liu, Xiang Cheng, and Liuqing Yang, "WiFo: Wireless Foundation Model for Channel Prediction," **SCIENCE CHINA Information Sciences**, vol. 68, no. 8, pp. 162302, May 2025. [[Paper](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4349-0)][[arXiv](https://arxiv.org/pdf/2412.08908)] [[Code](https://github.com/liuboxun/WiFo)]
 5. **Boxun Liu**, Shijian Gao, Zonghui Yang, Xiang Cheng, and Liuqing Yang, "Beam Pattern Modulation Embedded Hybrid Transceiver Optimization for Integrated Sensing and Communication", **IEEE Transactions on Wireless Communications**, vol. 24, no. 6, pp. 4966–4980, Jun. 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10910064)][[arXiv](https://arxiv.org/abs/2405.09778)]
-6. **Boxun Liu**, Xuanyu Liu, Shijian Gao, Xiang Cheng, and Liuqing Yang, "LLM4CP: Adapting Large Language Models for Channel Prediction," **Journal of Communications and Information Networks**, vol. 9, no. 2, pp. 113-125, Jun. 2024. [[Paper](https://ieeexplore.ieee.org/document/10582829)][[arXiv](https://arxiv.org/abs/2406.14440)][[Code](https://github.com/liuboxun/LLM4CP)] [[Interpretation](https://mp.weixin.qq.com/s/HRigvdlC1jcfs-NFzSxMow)] <span style="color:green;">The first attempt to adapt pre-trained LLM for channel prediction.</span>
+6. **Boxun Liu**, Xuanyu Liu, Shijian Gao, Xiang Cheng, and Liuqing Yang, "LLM4CP: Adapting Large Language Models for Channel Prediction," **Journal of Communications and Information Networks**, vol. 9, no. 2, pp. 113-125, Jun. 2024. [[Paper](https://ieeexplore.ieee.org/document/10582829)][[arXiv](https://arxiv.org/abs/2406.14440)][[Code](https://github.com/liuboxun/LLM4CP)] [[Interpretation](https://mp.weixin.qq.com/s/HRigvdlC1jcfs-NFzSxMow)]
+  +  The first attempt to adapt pre-trained LLM for channel prediction.
   *  *Selected in **Incentive Plan for Scientific and Technological Papers in the Field of Information and Communication China** (only 9 in 2024)* [[中国通信学会-2024年度信息通信领域科技论文激励计划](https://www.china-cic.cn/Detail/24/6211/6211)]
-  *  *Selected as the Most Popular Document of JCIN: August 2024-now*
+  *  *Selected as **JCIN 2025 Best Paper award***
+  *  *Selected as the **Most Popular Document (TOP 1)** of JCIN: August 2024-now*
 6. Jianan Zhang, Zhiwei Wei, **Boxun Liu**, Xiayi Wang, Yong Yu and Rongqing Zhang, "Cloud-Edge-Terminal Collaborative AIGC for Autonomous Driving," **IEEE Wireless Communications**, vol. 31, no. 4, pp. 40-47, Aug. 2024.
 7. Xiang Cheng, Ziwei Huang, Lu Bai, Haotian Zhang, Mingran Sun, **Boxun Liu**, Sijiang Li, Jianan Zhang, and Minson Lee, "M3SC: A generic dataset for mixed multi-modal (MMM) sensing and communication integration," **China Communications**, vol. 20, no. 11, pp. 13-29, Nov. 2023.
 8. **Boxun Liu**, Yong Deng, and Kang Hao Cheong, "An improved multisource data fusion method based on a novel divergence measure of belief function", **Engineering Applications of Artificial Intelligence**, vol. 111, pp. 104834, May 2022.
