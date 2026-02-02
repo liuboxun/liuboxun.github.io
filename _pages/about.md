@@ -17,13 +17,15 @@ My research interests include AI-empowered wireless system design. Specifically,
 
 1. Xiang Cheng, **Boxun Liu**, Xuanyu Liu, and Xuesong Cai, "Large Wireless Foundation Models: Stronger over Bigger", arXiv 2026. [[arXiv](https://arxiv.org/pdf/2601.10963)]
 2. **Bixun Liu**, Xuanyu Liu, Shijian Gao, Xiang Cheng, and Liuqing Yang, "Foundation Model for Intelligent Wireless Communications," arXiv 2026. [[arXiv](https://arxiv.org/abs/2511.22222)]
+3. Xiang Cheng, Weibo Wen, Haotian Zhang, **Boxun Liu**, Zonghui Yang, Jianan Zhang, Xuesong Cai, "Embodied Intelligent Wireless (EIW): Synesthesia of Machines Empowered Wireless Communications," arXiv 2025. [[arXiv](https://arxiv.org/abs/2511.22845)]
+4. Xuanyu Liu, Shijian Gao, **Boxun Liu**, Xiang Cheng, and Liuqing Yang, "WiFo-CF: Wireless Foundation Model for CSI Feedback", arXiv 2025.
 
 
 
 
 ## Journals
 
-1. Xinyu Pan, **Boxun Liu**, Xiang Cheng, and Chen Chen, "LLM4AMC: Adapting Large Language Models for Adaptive Modulation and Coding," **Journal of Communications and Information Networks**, vol. 10, no. 4, pp. 352-363, Dec. 2025.
+1. Xinyu Pan, **Boxun Liu**, Xiang Cheng, and Chen Chen, "LLM4AMC: Adapting Large Language Models for Adaptive Modulation and Coding," **Journal of Communications and Information Networks**, vol. 10, no. 4, pp. 352-363, Dec. 2025. [[Paper](https://ieeexplore.ieee.org/document/11357496)][[arXiv](https://arxiv.org/abs/2511.18690)][[Code](https://github.com/PXY714000/llm4amc)]
 2. Xiang Cheng, **Boxun Liu**, Xuanyu Liu, Ensong Liu, and Ziwei Huang, "Foundation Model Empowered Synesthesia of Machines (SoM): AI-native Intelligent Multi-Modal Sensing-Communication Integration", **IEEE Transactions on Network Science and Engineering**, vol. 13, pp. 762-782, Nov. 2025. [[Paper](https://ieeexplore.ieee.org/document/11074348)][[arXiv](https://arxiv.org/abs/2506.07647)][[Code](https://github.com/liuboxun/FM4SoM)]
 3. Xuanyu Liu, Shijian Gao, **Boxun Liu**, Xiang Cheng, and Liuqing Yang, "LLM4WM: Adapting LLM for Wireless Multi-Tasking", **IEEE Transactions on Machine Learning in Communications and Networking**, vol. 3, pp. 835-847, Jul. 2025. [[Paper](https://ieeexplore.ieee.org/document/11071329)][[arXiv](https://arxiv.org/abs/2501.12983)][[Code](https://github.com/xuanyv/LLM4WM)]
 4. **Boxun Liu**, Shijian Gao, Xuanyu Liu, Xiang Cheng, and Liuqing Yang, "WiFo: Wireless Foundation Model for Channel Prediction," **SCIENCE CHINA Information Sciences**, vol. 68, no. 8, pp. 162302, May 2025. [[Paper](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4349-0)][[arXiv](https://arxiv.org/pdf/2412.08908)] [[Code](https://github.com/liuboxun/WiFo)]
@@ -32,9 +34,9 @@ My research interests include AI-empowered wireless system design. Specifically,
   *  *Selected in **Incentive Plan for Scientific and Technological Papers in the Field of Information and Communication China** (only 9 in 2024)* [[中国通信学会-2024年度信息通信领域科技论文激励计划](https://www.china-cic.cn/Detail/24/6211/6211)]
   *  *Selected as **JCIN 2025 Best Paper award***
   *  *Selected as the **Most Popular Document (TOP 1)** of JCIN: August 2024-now*
-6. Jianan Zhang, Zhiwei Wei, **Boxun Liu**, Xiayi Wang, Yong Yu and Rongqing Zhang, "Cloud-Edge-Terminal Collaborative AIGC for Autonomous Driving," **IEEE Wireless Communications**, vol. 31, no. 4, pp. 40-47, Aug. 2024.
-7. Xiang Cheng, Ziwei Huang, Lu Bai, Haotian Zhang, Mingran Sun, **Boxun Liu**, Sijiang Li, Jianan Zhang, and Minson Lee, "M3SC: A generic dataset for mixed multi-modal (MMM) sensing and communication integration," **China Communications**, vol. 20, no. 11, pp. 13-29, Nov. 2023.
-8. **Boxun Liu**, Yong Deng, and Kang Hao Cheong, "An improved multisource data fusion method based on a novel divergence measure of belief function", **Engineering Applications of Artificial Intelligence**, vol. 111, pp. 104834, May 2022.
+7. Jianan Zhang, Zhiwei Wei, **Boxun Liu**, Xiayi Wang, Yong Yu and Rongqing Zhang, "Cloud-Edge-Terminal Collaborative AIGC for Autonomous Driving," **IEEE Wireless Communications**, vol. 31, no. 4, pp. 40-47, Aug. 2024.
+8. Xiang Cheng, Ziwei Huang, Lu Bai, Haotian Zhang, Mingran Sun, **Boxun Liu**, Sijiang Li, Jianan Zhang, and Minson Lee, "M3SC: A generic dataset for mixed multi-modal (MMM) sensing and communication integration," **China Communications**, vol. 20, no. 11, pp. 13-29, Nov. 2023.
+9. **Boxun Liu**, Yong Deng, and Kang Hao Cheong, "An improved multisource data fusion method based on a novel divergence measure of belief function", **Engineering Applications of Artificial Intelligence**, vol. 111, pp. 104834, May 2022.
  
 ## Conferences
 1. **Boxun Liu**, Shijian Gao, Zonghui Yang, and Xiang Cheng, "Beam Pattern Modulation Embedded mmWave Hybrid Transceiver Design Towards ISAC", in Proceedings of IEEE Vehicular Technology (**VTC-Spring**), 2024.
