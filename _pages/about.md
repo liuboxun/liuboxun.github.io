@@ -15,9 +15,10 @@ My research interests include AI-empowered wireless system design. Specifically,
 # Publications
 ## Working Paper
 
-1. Xiang Cheng, **Boxun Liu**, Xuanyu Liu, and Xuesong Cai, "Large Wireless Foundation Models: Stronger over Bigger", arXiv 2026. [[arXiv](https://arxiv.org/pdf/2601.10963)]
-2. **Bixun Liu**, Xuanyu Liu, Shijian Gao, Xiang Cheng, and Liuqing Yang, "Foundation Model for Intelligent Wireless Communications," arXiv 2026. [[arXiv](https://arxiv.org/abs/2511.22222)]
-3. Xiang Cheng, Weibo Wen, Haotian Zhang, **Boxun Liu**, Zonghui Yang, Jianan Zhang, Xuesong Cai, "Embodied Intelligent Wireless (EIW): Synesthesia of Machines Empowered Wireless Communications," arXiv 2025. [[arXiv](https://arxiv.org/abs/2511.22845)]
+1. Xuanyu Liu, Shijian Gao, **Boxun Liu**, Xiang Cheng, and Liuqing Yang, "WiFo-MiSAC: A Wireless Foundation Model for Multimodal Sensing and Communication Integration via Synesthesia of Machines (SoM)", arXiv 2026. [[arXiv](https://arxiv.org/abs/2604.18255)]
+2. Xiang Cheng, **Boxun Liu**, Xuanyu Liu, and Xuesong Cai, "Large Wireless Foundation Models: Stronger over Bigger", arXiv 2026. [[arXiv](https://arxiv.org/pdf/2601.10963)]
+3. **Boxun Liu**, Xuanyu Liu, Shijian Gao, Xiang Cheng, and Liuqing Yang, "Foundation Model for Intelligent Wireless Communications," arXiv 2026. [[arXiv](https://arxiv.org/abs/2511.22222)]
+4. Xiang Cheng, Weibo Wen, Haotian Zhang, **Boxun Liu**, Zonghui Yang, Jianan Zhang, and Xuesong Cai, "Embodied Intelligent Wireless (EIW): Synesthesia of Machines Empowered Wireless Communications," arXiv 2025. [[arXiv](https://arxiv.org/abs/2511.22845)]
 
 
 
