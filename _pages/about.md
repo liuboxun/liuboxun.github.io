@@ -15,9 +15,9 @@ My research interests include AI-empowered wireless system design. Specifically,
 # Publications
 ## Working Paper
 
-1. Xuanyu Liu, Shijian Gao, **Boxun Liu**, Xiang Cheng, and Liuqing Yang, "WiFo-MiSAC: A Wireless Foundation Model for Multimodal Sensing and Communication Integration via Synesthesia of Machines (SoM)", arXiv 2026. [[arXiv](https://arxiv.org/abs/2604.18255)]
+1. **Boxun Liu**, Xuanyu Liu, Shijian Gao, Xiang Cheng, and Liuqing Yang, "WiFo-2: a generalist foundation model unifies heterogeneous wireless system design," arXiv 2026. [[arXiv](https://arxiv.org/abs/2511.22222)]
 2. Xiang Cheng, **Boxun Liu**, Xuanyu Liu, and Xuesong Cai, "Large Wireless Foundation Models: Stronger over Bigger", arXiv 2026. [[arXiv](https://arxiv.org/pdf/2601.10963)]
-3. **Boxun Liu**, Xuanyu Liu, Shijian Gao, Xiang Cheng, and Liuqing Yang, "WiFo-2: a generalist foundation model unifies heterogeneous wireless system design," arXiv 2026. [[arXiv](https://arxiv.org/abs/2511.22222)]
+3. Xuanyu Liu, Shijian Gao, **Boxun Liu**, Xiang Cheng, and Liuqing Yang, "WiFo-MiSAC: A Wireless Foundation Model for Multimodal Sensing and Communication Integration via Synesthesia of Machines (SoM)", arXiv 2026. [[arXiv](https://arxiv.org/abs/2604.18255)]
 4. Xiang Cheng, Weibo Wen, Haotian Zhang, **Boxun Liu**, Zonghui Yang, Jianan Zhang, and Xuesong Cai, "Embodied Intelligent Wireless (EIW): Synesthesia of Machines Empowered Wireless Communications," arXiv 2025. [[arXiv](https://arxiv.org/abs/2511.22845)]
 
 
@@ -33,7 +33,7 @@ My research interests include AI-empowered wireless system design. Specifically,
   *  *Selected as **JCIN 2025 Best Paper award***
   *  *Selected as the **Most Popular Document (TOP 1)** of JCIN: August 2024-now*
 5. Xinyu Pan, **Boxun Liu**, Xiang Cheng, and Chen Chen, "LLM4AMC: Adapting Large Language Models for Adaptive Modulation and Coding," **Journal of Communications and Information Networks**, vol. 10, no. 4, pp. 352-363, Dec. 2025. [[Paper](https://ieeexplore.ieee.org/document/11357496)][[arXiv](https://arxiv.org/abs/2511.18690)][[Code](https://github.com/PXY714000/llm4amc)]
-6. Xuanyu Liu, Shijian Gao, **Boxun Liu**, Xiang Cheng, and Liuqing Yang, "WiFo-CF: Wireless Foundation Model for CSI Feedback", accepted for **IEEE Transactions on Wireless Communications**, 2025. [[arXiv](https://arxiv.org/abs/2508.04068)]
+6. Xuanyu Liu, Shijian Gao, **Boxun Liu**, Xiang Cheng, and Liuqing Yang, "WiFo-CF: Wireless Foundation Model for CSI Feedback", accepted for **IEEE Transactions on Wireless Communications**, 2025. [[Paper](https://ieeexplore.ieee.org/document/11479626)][[arXiv](https://arxiv.org/abs/2508.04068)]
 7. Xuanyu Liu, Shijian Gao, **Boxun Liu**, Xiang Cheng, and Liuqing Yang, "LLM4WM: Adapting LLM for Wireless Multi-Tasking", **IEEE Transactions on Machine Learning in Communications and Networking**, vol. 3, pp. 835-847, Jul. 2025. [[Paper](https://ieeexplore.ieee.org/document/11071329)][[arXiv](https://arxiv.org/abs/2501.12983)][[Code](https://github.com/xuanyv/LLM4WM)]
 8. Jianan Zhang, Zhiwei Wei, **Boxun Liu**, Xiayi Wang, Yong Yu, and Rongqing Zhang, "Cloud-Edge-Terminal Collaborative AIGC for Autonomous Driving," **IEEE Wireless Communications**, vol. 31, no. 4, pp. 40-47, Aug. 2024.
 9. Xiang Cheng, Ziwei Huang, Lu Bai, Haotian Zhang, Mingran Sun, **Boxun Liu**, Sijiang Li, Jianan Zhang, and Minson Lee, "M3SC: A generic dataset for mixed multi-modal (MMM) sensing and communication integration," **China Communications**, vol. 20, no. 11, pp. 13-29, Nov. 2023.
