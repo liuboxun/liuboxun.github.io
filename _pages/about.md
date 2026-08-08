@@ -15,8 +15,9 @@ My research interests include AI-empowered wireless system design. Specifically,
 # Publications
 ## Working Paper
 
-1. Xiang Cheng, **Boxun Liu**, Xuanyu Liu, and Xuesong Cai, "Large Wireless Foundation Models: Stronger over Bigger", arXiv 2026. [[arXiv](https://arxiv.org/pdf/2601.10963)]
-2. Xuanyu Liu, Shijian Gao, **Boxun Liu**, Xiang Cheng, and Liuqing Yang, "WiFo-MiSAC: A Wireless Foundation Model for Multimodal Sensing and Communication Integration via Synesthesia of Machines (SoM)", arXiv 2026. [[arXiv](https://arxiv.org/abs/2604.18255)]
+1. **Boxun Liu**, Xuanyu Liu, Shijian Gao, Xiang Cheng, and Liuqing Yang, "WiFo-INR: A Wireless Foundation Model Based on Implicit Neural Representations," arXiv 2026.
+2. Xiang Cheng, **Boxun Liu**, Xuanyu Liu, and Xuesong Cai, "Large Wireless Foundation Models: Stronger over Bigger", arXiv 2026. [[arXiv](https://arxiv.org/pdf/2601.10963)]
+3. Xuanyu Liu, Shijian Gao, **Boxun Liu**, Xiang Cheng, and Liuqing Yang, "WiFo-MiSAC: A Wireless Foundation Model for Multimodal Sensing and Communication Integration via Synesthesia of Machines (SoM)", arXiv 2026. [[arXiv](https://arxiv.org/abs/2604.18255)]
 
 
 
