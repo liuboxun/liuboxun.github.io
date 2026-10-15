@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year Ph.D. student (since 2023) at [PCNI Lab](http://pcni.pku.edu.cn/) of the School of Electronics, Peking University, supervised by [Prof. Xiang Cheng](https://ele.pku.edu.cn/info/1023/1063.htm). I also work closely with [Prof. Shijian Gao](https://sites.google.com/view/shijian-gao) from The Hong Kong University of Science and
+I am a fourth-year Ph.D. student (since 2023) at [PCNI Lab](http://pcni.pku.edu.cn/) of the School of Electronics, Peking University, supervised by [Prof. Xiang Cheng](https://ele.pku.edu.cn/info/1023/1063.htm). I also work closely with [Prof. Shijian Gao](https://sites.google.com/view/shijian-gao) from The Hong Kong University of Science and
 Technology (Guangzhou). 
 Before that, I obtained my bachelor's degree from the University of Electronic Science and Technology of China in 2023.
 
@@ -30,9 +30,9 @@ My research interests include AI-empowered wireless system design. Specifically,
 4. **Boxun Liu**, Xuanyu Liu, Shijian Gao, Xiang Cheng, and Liuqing Yang, "LLM4CP: Adapting Large Language Models for Channel Prediction," **Journal of Communications and Information Networks**, vol. 9, no. 2, pp. 113-125, Jun. 2024. [[Paper](https://ieeexplore.ieee.org/document/10582829)][[arXiv](https://arxiv.org/abs/2406.14440)][[Code](https://github.com/liuboxun/LLM4CP)] [[中文解读](https://mp.weixin.qq.com/s/HRigvdlC1jcfs-NFzSxMow)]
   *  *Selected in **Incentive Plan for Scientific and Technological Papers in the Field of Information and Communication China** (only 9 in 2024)* [[中国通信学会-2024年度信息通信领域科技论文激励计划](https://www.china-cic.cn/Detail/24/6211/6211)]
   *  *Selected as **JCIN 2025 Best Paper award***
-  *  *Selected as the **Most Popular Document (TOP 1)** of JCIN: August 2024-now*
+  *  *Selected as the **Most Popular Document (TOP 1)** of JCIN: August 2024-June 2026 (23 consecutive months)*
 5. Xiang Cheng, **Boxun Liu**, Xuanyu Liu, Ensong Liu, and Ziwei Huang, "Foundation Model Empowered Synesthesia of Machines (SoM): AI-native Intelligent Multi-Modal Sensing-Communication Integration", **IEEE Transactions on Network Science and Engineering**, vol. 13, pp. 762-782, Nov. 2025. [[Paper](https://ieeexplore.ieee.org/document/11074348)][[arXiv](https://arxiv.org/abs/2506.07647)][[Code](https://github.com/liuboxun/FM4SoM)][[中文解读](https://mp.weixin.qq.com/s/__S7GVeq4uF24MOIfmRjOA)]
-   *  *Selected as **ESI Highly Cited Paper of March/April 2026***
+   *  *Selected as **ESI Highly Cited Paper (top 1%)***
 6. Xinyu Pan, **Boxun Liu**, Xiang Cheng, and Chen Chen, "LLM4AMC: Adapting Large Language Models for Adaptive Modulation and Coding," **Journal of Communications and Information Networks**, vol. 10, no. 4, pp. 352-363, Dec. 2025. [[Paper](https://ieeexplore.ieee.org/document/11357496)][[arXiv](https://arxiv.org/abs/2511.18690)][[Code](https://github.com/PXY714000/llm4amc)]
 7. 程翔，李思江，**刘伯珣**，刘恩嵩，黄子蔚，文韦博，刘轩宇，机器联觉赋能网联具身智能，科学通报，已接收，2026. [[Paper](https://www.sciengine.com/CSB/doi/10.1360/CSB-2026-0654)]
 8. Xuanyu Liu, Shijian Gao, **Boxun Liu**, Xiang Cheng, and Liuqing Yang, "WiFo-CF: Wireless Foundation Model for CSI Feedback", accepted for **IEEE Transactions on Wireless Communications**, 2025. [[Paper](https://ieeexplore.ieee.org/document/11479626)][[arXiv](https://arxiv.org/abs/2508.04068)]
